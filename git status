@@ -1,0 +1,17 @@
+[33mcommit 537f26d258b13ec94f1214088f8b6072798f1daf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Srpak Goran <srpak.goran7@gmail.com>
+Date:   Fri Apr 12 16:43:59 2024 +0200
+
+    changed body fontsize
+
+[33mcommit aa1b58e73d3a697a1666cae5c40a31e20f73d622[m
+Author: Srpak Goran <srpak.goran7@gmail.com>
+Date:   Fri Apr 12 16:42:35 2024 +0200
+
+    added index title
+
+[33mcommit 803fbfc993b36bec98e6e42b233b7a1bc8575454[m
+Author: Srpak Goran <srpak.goran7@gmail.com>
+Date:   Fri Apr 12 16:40:32 2024 +0200
+
+    added index and style files
